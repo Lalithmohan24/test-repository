@@ -1,0 +1,2 @@
+0 withhelmet
+1 withouthelmet
